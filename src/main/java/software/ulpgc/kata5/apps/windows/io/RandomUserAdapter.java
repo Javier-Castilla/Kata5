@@ -1,7 +1,7 @@
 package software.ulpgc.kata5.apps.windows.io;
 
-import software.ulpgc.kata5.apps.windows.io.pojos.RandomUserGetResponse;
 import software.ulpgc.kata5.architecture.io.UserAdapter;
+import software.ulpgc.kata5.architecture.io.pojos.RandomUserGetResponse;
 import software.ulpgc.kata5.architecture.model.User;
 
 public class RandomUserAdapter implements UserAdapter {

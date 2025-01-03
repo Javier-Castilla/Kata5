@@ -1,4 +1,4 @@
-package software.ulpgc.kata5.apps.windows.io.pojos;
+package software.ulpgc.kata5.architecture.io.pojos;
 
 import java.util.List;
 

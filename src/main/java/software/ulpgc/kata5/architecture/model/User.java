@@ -5,7 +5,7 @@ public record User(Gender gender, Name name, Location location, String email, St
         FEMALE, MALE;
     }
 
-    public record Name(String first, String last) {}
+    public record Name(String first, String lastName) {}
 
     public record Location(String country, String state, String city, String streetName) {}
 }
